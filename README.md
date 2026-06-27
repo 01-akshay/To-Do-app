@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# To-Do-app
+A full-stack To-Do application built with React.js and JSON Server, allowing users to create, update, and manage tasks efficiently. The application demonstrates CRUD operations, REST API integration, and responsive UI design for a seamless task management experience.
+>>>>>>> 9d7ad690e4129a0da565b0f40df2caf1e28a4970
