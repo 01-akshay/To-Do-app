@@ -1,0 +1,75 @@
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+html,
+body{
+    height: 100%;
+}
+
+
+#root {
+    height : 100%;
+}
+
+.wrapper{
+    height: calc(100% - 78px);
+}
+
+.bg-primary{
+    background-color: #131823 !important;
+    
+}
+.text-primary {
+    color : #131823 !important;
+}
+.btn-primary {
+    background-color: #131823 !important;
+    border-color: #131823 !important;
+}
+.blue{
+   
+    color: black;
+    text-decoration:none;
+    padding:3%;
+    display: flex;
+    width:50%;
+    justify-content: center;
+    align-items: center;
+}
+.white{
+    background-color: #131823;
+    color:white;
+    text-decoration:none;
+    padding:3%;
+    display: flex;
+    width:50%;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.edit-task:hover{
+    background-color:pink;
+    color:black;
+    border: solid 2px pink;
+}
+.image-adjustment{
+    width:150px;
+    height :150px;
+    border:0.5px solid white;
+    border-radius: 50%;
+}
+
+.create-task:hover{
+    background-color:pink;
+    color:black;
+    border: solid 2px pink;
+}
+
+.profilehover:hover{
+    background-color: pink;
+    color:black;
+    border:1px solid pink;
+ 
+}
